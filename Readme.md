@@ -10,3 +10,4 @@ APIs
 - /api/person (POST a person)
 - /api/person/{id} (GET a person by id)
 
+###https://dzone.com/articles/microservices-and-devops-1
